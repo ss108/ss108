@@ -7,11 +7,11 @@ the [Free Law Project](https://github.com/freelawproject) while I look for a ful
 
 My tech work history (further details can be found on my [Linkedin](https://www.linkedin.com/in/samier-saeed/)):
 
-* Software Engineer at [truBrain](https://www.trubrain.com/) (Python/Django; Postgres)
-* Software Engineer at [Panjo](https://www.crunchbase.com/organization/panjo) (C#; React; Postgres)
-* Lead Software Engineer at [Bloomtri](https://www.bloomtri.com/) (TypeScript; React; Postgres)
-* Founder at Scripta (we have left no remnant of our failure online) (TypeScript; Python; React; Google Cloud Platform)
-* Software Engineering Fellow at [Free Law Project](https://github.com/freelawproject) (Python/Django; Postgres; Celery)
+* Software Engineer at [truBrain](https://www.trubrain.com/) (Python/Django; Postgres) (2013 - 2014)
+* Software Engineer at [Panjo](https://www.crunchbase.com/organization/panjo) (C#; React; Postgres) (2014 - 2016)
+* Lead Software Engineer at [Bloomtri](https://www.bloomtri.com/) (TypeScript; React; Postgres) (2016 - 2018)
+* Founder at Scripta (we have left no remnant of our failure online) (TypeScript; Python; React; Google Cloud Platform) (2022 - 2023)
+* Software Engineering Fellow at [Free Law Project](https://github.com/freelawproject) (Python/Django; Postgres; Celery) (2023 - )
 
 ## Written Content
 
