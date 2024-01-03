@@ -15,6 +15,7 @@ My tech work history (further details can be found on my [Linkedin](https://www.
 
 ### Education
 Brown University, 2013
+
 Columbia Law School, 2021
 
 ## Written Content
