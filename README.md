@@ -11,7 +11,8 @@ My tech work history (further details can be found on my [Linkedin](https://www.
 * Lead Software Engineer at [Bloomtri](https://www.bloomtri.com/) (TypeScript; React; Postgres) (2016 - 2018)
 * Founder at Scripta (we have left no remnant of our failure online) (TypeScript; Python; React; Google Cloud Platform) (2022 - 2023)
 * Software Engineering Fellow at [Free Law Project](https://github.com/freelawproject) (Python/Django; Postgres; Celery; Docker) (2023)
-* Software Engineer at [Trellis](https://trellis.law/) (2023-)
+* Software Engineer at [Trellis](https://trellis.law/) (2023-2025)
+* Senior Software Engineer at [Steward](https://www.usesteward.com/) (2025-)
 
 ### Education
 Brown University, 2013
