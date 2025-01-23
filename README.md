@@ -4,7 +4,7 @@ I'm a software engineer --> lawyer --> software engineer.
 
 I currently work at Steward.
 
-Prior, I was Trellis, a legal tech startup, where I was on the Machine Learning Team.
+Prior, I was at Trellis, a legal tech startup, where I was on the Machine Learning Team.
 
 ## Basics of my CV
 
